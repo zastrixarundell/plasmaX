@@ -142,7 +142,7 @@
        y="23"
        width="26"
        height="2"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-9"
        class="ColorScheme-ButtonFocus"
@@ -150,7 +150,7 @@
        y="22"
        width="26"
        height="1"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-focus-topleft">
@@ -168,7 +168,7 @@
        y="22"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-focus-topright">
@@ -186,7 +186,7 @@
        y="22"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-focus-bottom">
@@ -676,7 +676,7 @@
        y="38"
        width="26"
        height="2"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-9-0"
        class="ColorScheme-ButtonFocus"
@@ -684,7 +684,7 @@
        y="40"
        width="26"
        height="1"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="focus-bottomleft">
@@ -702,7 +702,7 @@
        y="38"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="focus-bottomright">
@@ -720,7 +720,7 @@
        y="38"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="focus-top">
@@ -1161,7 +1161,7 @@
        y="26"
        width="2"
        height="11"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6-8"
        class="ColorScheme-ButtonFocus"
@@ -1169,7 +1169,7 @@
        y="26"
        width="1"
        height="11"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-focus-center">
@@ -1224,7 +1224,7 @@
        y="23"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-focus-bottomright">
@@ -1235,7 +1235,7 @@
        y="37"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3"
        x="104"
@@ -1700,7 +1700,7 @@
        y="26"
        width="2"
        height="11"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6-8-59"
        class="ColorScheme-ButtonFocus"
@@ -1708,7 +1708,7 @@
        y="26"
        width="1"
        height="11"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-focus-center">
@@ -1763,7 +1763,7 @@
        y="23"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-focus-bottomleft">
@@ -1774,7 +1774,7 @@
        y="37"
        width="3"
        height="3"
-       style="opacity:0.9902;fill:#76b9ed;fill-opacity:1;stroke:none" />
+       style="opacity:0.9902;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-12"
        x="109.214"
